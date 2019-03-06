@@ -4,6 +4,12 @@
     + composer
     + mysql
 
+## Technology stacks
+    + php 5.*
+    + laravel
+    + composer
+    + mysql
+
 ## Follow this checklist for running
 	+ copy project to apache web server under /htdocs
 	+ give permission sudo schmod -R 777 /laravel-personal-profile
